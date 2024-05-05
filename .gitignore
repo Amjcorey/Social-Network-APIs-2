@@ -1,5 +1,8 @@
 node_modules
 .DS_Store
+DB_NAME='libraryname'
+DB_PASSWORD='herfy7!33'
+DB_USER='acorey' 
 # Logs
 logs
 *.log
